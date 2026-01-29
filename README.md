@@ -1,6 +1,6 @@
 
 # Thực hành 01 – Nhóm 8
-Repo này tổng hợp bài làm Thực hành 01 của các thành viên trong nhóm.
+Repo này tổng hợp bài làm Thực hành 01 của các thành viên trong nhóm 8.
 
 ## Danh sách bài
 
