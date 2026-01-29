@@ -4,7 +4,7 @@
 
 Infographic được tạo với sự hỗ trợ của **Canva AI**.
 
-![Infographicnv3.1](infographicnv3.1.png)
+![Infographicnv3.1](NV 3.1 by Bùi Thiện Nhân.png)
 
 ---
 
