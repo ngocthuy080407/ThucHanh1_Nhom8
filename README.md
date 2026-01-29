@@ -18,7 +18,7 @@ Thành viên thực hiện: **Nguyễn Quốc Thịnh**
 
 Mô tả: Sử dụng AI để hỗ trợ cài đặt và cấu hình trình duyệt Chrome hoặc phần mềm Notepad++.
 
-Kết quả được trình bày trong file [`.docx`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh.docx), [`png`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh%20screenshot%20.png) và [`.py`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh.py)
+Kết quả được trình bày trong file [`.docx`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh.docx), [`.png`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh%20screenshot%20.png) và [`.py`](NV%201.2%20by%20Qu%E1%BB%91c%20Th%E1%BB%8Bnh.py)
 
 ### NV 2.1 - Xử lý sự cố kết nối Wi-Fi 
 
