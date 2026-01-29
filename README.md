@@ -1,4 +1,3 @@
-
 # Thực hành 01 – Nhóm 8
 Repo này tổng hợp bài làm Thực hành 01 của các thành viên trong nhóm 8.
 
@@ -44,15 +43,6 @@ Mô tả: Sử dụng Canva AI để tạo infographic về một chủ đề c�
 
 Kết quả được trình bày trong file [`.docx`](NV%203.2%20by%20B%C3%B9i%20Thi%E1%BB%87n%20Nh%C3%A2n.docx) và [`.png`](NV%203.1%20screenshot%20by%20B%C3%B9i%20Thi%E1%BB%87n%20Nh%C3%A2n.png)
 
-### NV 3.2 - Đánh giá đạo đức khi sử dụng AI
-
-Thành viên thực hiện: **Bùi Thiện Nhân**
-
-Mô tả: Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức. 
-
-Kết quả được trình bày trong file [`.docx`](NV%203.2%20by%20B%C3%B9i%20Thi%E1%BB%87n%20Nh%C3%A2n.docx)
-
-
 ## Infographic – NV 3.1
 
 ![NV 3.1 Infographic](NV%203.1%20by%20B%C3%B9i%20Thi%E1%BB%87n%20Nh%C3%A2n.png)
@@ -67,3 +57,12 @@ The infographic image (`NV 3.1 by Bùi Thiện Nhân.png`) is licensed under
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 https://creativecommons.org/licenses/by/4.0/
+
+### NV 3.2 - Đánh giá đạo đức khi sử dụng AI
+
+Thành viên thực hiện: **Bùi Thiện Nhân**
+
+Mô tả: Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức. 
+
+Kết quả được trình bày trong file [`.docx`](NV%203.2%20by%20B%C3%B9i%20Thi%E1%BB%87n%20Nh%C3%A2n.docx)
+
