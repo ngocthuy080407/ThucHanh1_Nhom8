@@ -1,16 +1,16 @@
 # Infographic
 
-## Infographicnv3.1
+## NV 3.1
 
 Infographic được tạo với sự hỗ trợ của **Canva AI**.
 
-![Infographicnv3.1](NV 3.1 by Bùi Thiện Nhân.png)
+![NV 3.1 Infographic](nv-3.1-by-bui-thien-nhan.png)
 
 ---
 
 ## License
 
-The infographic image (`infographicnv3.1.png`) is licensed under  
+The infographic image (`nv-3.1-by-bui-thien-nhan.png`) is licensed under  
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 You are free to:
